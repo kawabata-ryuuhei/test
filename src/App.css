@@ -28,6 +28,20 @@
   color: #61dafb;
 }
 
+.pageNationButton {
+  margin: 100px 0 0 50px;
+  text-align: left;
+  position: fixed;
+}
+.pageNationButton div {
+  margin-left: 68px;
+}
+.page {
+  padding: 0 10px;
+  border: solid 1px gray;
+  margin: 0 10px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
